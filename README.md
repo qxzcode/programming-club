@@ -1,3 +1,3 @@
 This is a repository for programming club stuff.
 
-Feel free to fork this (if you’re unfamiliar with that term, check this out: [http://kbroman.org/github_tutorial/pages/fork.html]) and contribute any projects that you want to show off, or introductory programs that you feel that will help everyone out. This year will be the most fun and productive if we all contribute, even just a little bit, and this is a great way to acquaint yourself with a tool that we’ll be using a lot later in the year.
+Feel free to fork this (if you’re unfamiliar with that term, check this out: http://kbroman.org/github_tutorial/pages/fork.html) and contribute any projects that you want to show off, or introductory programs that you feel that will help everyone out. This year will be the most fun and productive if we all contribute, even just a little bit, and this is a great way to acquaint yourself with a tool that we’ll be using a lot later in the year.
